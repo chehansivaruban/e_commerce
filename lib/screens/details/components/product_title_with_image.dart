@@ -19,6 +19,15 @@ class ProductTitleWithImage extends StatelessWidget {
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
+          //  const CounterWithFavBtn(),
+          //   const SizedBox(
+          //     height: kDefaultPaddin / 2,
+          //   ),
+          //   AddToCart(product: product),
+          //   Description(product: product),
+          //   const SizedBox(
+          //     height: kDefaultPaddin / 2,
+          //   ),
           const Text(
             "Aristocratic Instruments",
             style: TextStyle(
